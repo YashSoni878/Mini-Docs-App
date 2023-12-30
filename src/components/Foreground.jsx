@@ -14,15 +14,15 @@ function Foreground() {
     },
 
     { 
-      desc: "Hey! I am the first card created using Reactjs", 
-      filesize: "0.9mb", 
+      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic magni asperiores eaque quibusdam nostrum recusandae.", 
+      filesize: "0.2mb", 
       close: true, 
       tag: { isOpen: true, tagTitle: "Upload", tagColor: "blue"}, 
     },
 
     { 
-      desc: "Hey! I am the first card created using Reactjs", 
-      filesize: "0.9mb", 
+      desc: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic magni asperiores eaque quibusdam nostrum recusandae.", 
+      filesize: "0.7mb", 
       close: true, 
       tag: { isOpen: true, tagTitle: "Download Now", tagColor: "green"}, 
     },
